@@ -7,3 +7,5 @@ https://github.com/SunWeb3Sec/DeFiHackLabs/tree/main/academy?fbclid=IwAR0xGNBMZg
 https://docs.code4rena.com/awarding/incentive-model-and-awards
 
 https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf 
+
+https://dacian.me/precision-loss-errors
