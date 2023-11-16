@@ -8,4 +8,4 @@ https://docs.code4rena.com/awarding/incentive-model-and-awards
 
 https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf 
 
-https://dacian.me/precision-loss-errors
+https://dacian.me/precision-loss-errors - Solodit alternative
