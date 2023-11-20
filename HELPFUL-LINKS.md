@@ -9,3 +9,5 @@ https://docs.code4rena.com/awarding/incentive-model-and-awards - Code4rena Docs
 https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf - EMV Illustrated
 
 https://dacian.me/precision-loss-errors - Solodit alternative
+
+https://guardianaudits.notion.site/guardianaudits/Gateway-Free-Web3-Security-Course-574f4d819c144d7895cda6d61ba26503 - Owen course
