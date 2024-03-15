@@ -13,3 +13,5 @@ https://dacian.me/precision-loss-errors - Solodit alternative
 https://guardianaudits.notion.site/guardianaudits/Gateway-Free-Web3-Security-Course-574f4d819c144d7895cda6d61ba26503 - Owen course
 
 https://smartsechub.xyz/?resourceType=article - anything web3 sec, articles, videos, post
+
+https://github.com/mudgen/awesome-diamonds - anything diamond pattern
